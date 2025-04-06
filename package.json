@@ -1,0 +1,20 @@
+{
+  "name": "shopify-seo-title-optimizer",
+  "version": "1.0.0",
+  "description": "Shopify app to optimize product titles for SEO",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.8.4",
+    "body-parser": "^2.2.0",
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0"
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "author": "Your Name",
+  "license": "ISC"
+}
